@@ -34,4 +34,4 @@ void loop()
  }
 
 
- //the http link- https://blr1.blynk.cloud/external/api/update?token=give your token&givethepin=1or0
+ //the http link- https://blr1.blynk.cloud/external/api/update?token=giveyourtoken&givethepin=1or0
